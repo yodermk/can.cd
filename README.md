@@ -1,4 +1,4 @@
-Show us the power of your words!
+Show us the power of your words in code!
 ================================
 
 1. Fork thiis repository.
