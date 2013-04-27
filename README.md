@@ -1,10 +1,10 @@
 Show us the power of your words in code!
 ================================
 
-1. Fork thiis repository.
-2. Change CNAME from ii.can.cd to _your name_.can.cd
-3. Empty out index.html and show the world the power of your words in code!
-4. Commit and let it bake for 10 minutes.
+1. [Fork thiis](https://github.com/passionengine/can.cd/fork) repository.
+2. Change [CNAME](https://github.com/passionengine/can.cd/blob/gh-pages/CNAME#L1) from ii.can.cd to _yourname_.can.cd
+3. Empty out [index.html](https://github.com/passionengine/can.cd/blob/gh-pages/index.html) and show the world the power of your words in code!
+4. Commit and let it bake for 10 minutes then visit _yourname_.can.cd
 
 thiis.is about all of us
 
