@@ -1,10 +1,10 @@
 Show us the power of your words!
 ================================
 
-#. Fork thiis repository.
-#. Change CNAME from ii.can.cd to _your name_.can.cd
-#. Empty out index.html and show the world the power of your words in code!
-#. Commit and let it bake for 10 minutes.
+1. Fork thiis repository.
+2. Change CNAME from ii.can.cd to _your name_.can.cd
+3. Empty out index.html and show the world the power of your words in code!
+4. Commit and let it bake for 10 minutes.
 
 thiis.is about all of us
 
