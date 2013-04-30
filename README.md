@@ -20,6 +20,6 @@ Show us the power of your words in code!
 
 Thank you for being part of thiis.
 
-Speak Softly, Love Loudly
+Speak Softly, Love Lavishly
 
-@hippiehacker
+faith, hope, & love  - @hippiehacker
